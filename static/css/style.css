@@ -1,0 +1,12 @@
+.page_wrap
+{
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+    text-align: center; 
+}
